@@ -1,5 +1,5 @@
-# NetcoreApiWithRedis
-Simple example Netcore 3.1 API using Redis
+# NetcoreApiWithRedisInDocker
+Simple example Netcore 3.1 API using Redis in Docker
 
 download redis to docker:
 docker pull redis:6.2.4-alpine
